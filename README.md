@@ -1,5 +1,7 @@
 # DoBlocks
 
+[![Gem Version](https://badge.fury.io/rb/do_blocks.svg)](https://badge.fury.io/rb/do_blocks)
+
 This Ruby gem provides an easy way to add before, after, and on error blocks to methods in Ruby classes.
 
 Lightly inspired by [Aspect-Oriented Programming](https://en.wikipedia.org/wiki/Aspect-oriented_programming) and [Rails callbacks](https://guides.rubyonrails.org/active_record_callbacks.html), it's a simple way to add cross-cutting concerns to methods while keeping the original code short and clean.
